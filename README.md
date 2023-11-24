@@ -30,3 +30,4 @@ Contato: ppelino@hotmail.com
 
 ## Licença
 Este projeto está sob a licença [Nome da Licença]. Veja o arquivo `LICENSE` para mais detalhes.
+![Descrição da Imagem](https://github.com/ppelino/audio_WorldCloud_Ed/blob/main/nuvem_de_palavras_MillorFernandes.png)
