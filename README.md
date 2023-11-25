@@ -3,7 +3,7 @@
 as bibliotecas SpeechRecognition, pyaudio, matplotlib e wordcloud:
 instalar as bibliotecas necessárias antes de executar o código abaixo. Você pode instalar as bibliotecas usando o pip no seu terminal
 
-# audio_WorlCloud_Ed
+# audio_WordCloud_Ed
 
 ## Descrição
 Criação de nuvem de palavras através de captura de audio.
